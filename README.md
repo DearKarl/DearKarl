@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Karl.
+<h1 align="center">Hi, I'm Karl.</h1>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=0EA5A4&center=true&vCenter=true&width=760&lines=Welcome+to+my+world.;Statistics+first%2C+stories+second.;Bayesian+inference+%7C+uncertainty+quantification+%7C+causal+discovery" alt="Typing introduction" />

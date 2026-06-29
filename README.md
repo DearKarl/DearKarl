@@ -1,6 +1,6 @@
 <div align="center">
 
-<h3>Hi, I'm Karl.</h3>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&section=header&text=Hi%2C%20I%27m%20Karl.&fontSize=46&fontColor=B01C2E&fontAlignY=50" alt="Hi, I'm Karl." />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=0EA5A4&center=true&vCenter=true&width=760&lines=Welcome+to+my+world.;Statistics+first%2C+stories+second.;Bayesian+inference+%7C+uncertainty+quantification+%7C+causal+discovery" alt="Typing introduction" />
@@ -8,8 +8,8 @@
 
 <br>
 
-[![Profile views](https://komarev.com/ghpvc/?username=DearKarl&style=flat-square&color=0ea5a4)](https://github.com/DearKarl)
-[![GitHub followers](https://img.shields.io/github/followers/DearKarl?label=follow&style=flat-square&color=111827)](https://github.com/DearKarl?tab=followers)
+[![Profile views](https://komarev.com/ghpvc/?username=DearKarl&style=flat-square&color=b01c2e)](https://github.com/DearKarl)
+[![GitHub followers](https://img.shields.io/github/followers/DearKarl?label=follow&style=flat-square&labelColor=b01c2e&color=ffffff)](https://github.com/DearKarl?tab=followers)
 
 </div>
 

@@ -1,2 +1,95 @@
-# MyFirstProject
-This is my first R project test.
+<div align="center">
+
+# Hi, I'm Karl
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=0EA5A4&center=true&vCenter=true&width=760&lines=Statistics+first%2C+stories+second.;Bayesian+models+%7C+simulation+%7C+multi-omics;Small+experiments%2C+clear+questions%2C+useful+answers." alt="Typing introduction" />
+</a>
+
+[![Profile views](https://komarev.com/ghpvc/?username=DearKarl&style=flat-square&color=0ea5a4)](https://github.com/DearKarl)
+[![GitHub followers](https://img.shields.io/github/followers/DearKarl?label=follow&style=flat-square&color=111827)](https://github.com/DearKarl?tab=followers)
+[![Focus](https://img.shields.io/badge/focus-data%20science%20%2B%20research-0ea5a4?style=flat-square)](#current-lab)
+
+</div>
+
+## About This Lab
+
+I like building small, inspectable projects that turn noisy data into questions we can test. My GitHub orbit right now includes Bayesian modeling, simulation-based classification, lexical clustering, text analytics, census trends, and multi-omics networks.
+
+```txt
+> karl.status()
+curiosity       high
+favorite_moves  model -> simulate -> visualize -> explain
+working_style   make it reproducible, then make it readable
+```
+
+## Current Lab
+
+| Project | What it explores | Link |
+| --- | --- | --- |
+| `Multiomics_Regnet` | regulatory and network patterns in multi-omics data | [open repo](https://github.com/DearKarl/Multiomics_Regnet) |
+| `Simulation_Based_Classification` | classification ideas tested through simulated data | [open repo](https://github.com/DearKarl/Simulation_Based_Classification) |
+| `Bayesian_Linear_Regression` | Bayesian modeling and uncertainty thinking | [open repo](https://github.com/DearKarl/Bayesian_Linear_Regression) |
+| `Lexical_Clustering` | structure, distance, and clusters in language data | [open repo](https://github.com/DearKarl/Lexical_Clustering) |
+| `Text_Analytics` | extracting useful signal from text | [open repo](https://github.com/DearKarl/Text_Analytics) |
+| `Census_Trends_Analysis` | public-data trend analysis and visualization | [open repo](https://github.com/DearKarl/Census_Trends_Analysis) |
+
+<div align="center">
+  <a href="https://github.com/DearKarl/Multiomics_Regnet">
+    <img height="132" src="https://github-readme-stats.vercel.app/api/pin/?username=DearKarl&repo=Multiomics_Regnet&theme=vue-dark&hide_border=true&bg_color=0D1117" alt="Pinned card for Multiomics_Regnet" />
+  </a>
+  <a href="https://github.com/DearKarl/Simulation_Based_Classification">
+    <img height="132" src="https://github-readme-stats.vercel.app/api/pin/?username=DearKarl&repo=Simulation_Based_Classification&theme=vue-dark&hide_border=true&bg_color=0D1117" alt="Pinned card for Simulation_Based_Classification" />
+  </a>
+</div>
+
+## Toolkit
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,r,git,github,vscode,linux&perline=6" alt="Core tools" />
+  </a>
+</div>
+
+```txt
+question        -> dataset
+dataset         -> model
+model           -> simulation
+simulation      -> plot
+plot            -> explanation
+explanation     -> next better question
+```
+
+## GitHub Signals
+
+<div align="center">
+  <img height="162" src="https://github-readme-stats.vercel.app/api?username=DearKarl&show_icons=true&hide_border=true&theme=vue-dark&rank_icon=github" alt="Karl's GitHub stats" />
+  <img height="162" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DearKarl&layout=compact&hide_border=true&theme=vue-dark" alt="Karl's top languages" />
+</div>
+
+## Contribution Flow
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DearKarl/DearKarl/output/github-contribution-grid-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DearKarl/DearKarl/output/github-contribution-grid.svg" />
+  <img alt="Contribution graph animation" src="https://raw.githubusercontent.com/DearKarl/DearKarl/output/github-contribution-grid.svg" />
+</picture>
+
+<details>
+<summary>Small debug ritual</summary>
+
+```txt
+1. Make the smallest reproducible example.
+2. Check the assumptions before checking the code.
+3. Plot the weird part.
+4. Delete the clever thing if the plain thing works.
+5. Leave a note for future Karl.
+```
+
+</details>
+
+---
+
+<div align="center">
+  <sub>Built as a living README: part lab notebook, part dashboard, part reminder to stay curious.</sub>
+</div>

@@ -4,12 +4,11 @@
 ### Welcome to my world.
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=0EA5A4&center=true&vCenter=true&width=760&lines=Statistics+first%2C+stories+second.;Bayesian+models+%7C+simulation+%7C+multi-omics;Small+experiments%2C+clear+questions%2C+useful+answers." alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=0EA5A4&center=true&vCenter=true&width=760&lines=Welcome+to+my+world.;Statistics+first%2C+stories+second.;Bayesian+inference+%7C+uncertainty+quantification+%7C+causal+discovery" alt="Typing introduction" />
 </a>
 
 [![Profile views](https://komarev.com/ghpvc/?username=DearKarl&style=flat-square&color=0ea5a4)](https://github.com/DearKarl)
 [![GitHub followers](https://img.shields.io/github/followers/DearKarl?label=follow&style=flat-square&color=111827)](https://github.com/DearKarl?tab=followers)
-[![Focus](https://img.shields.io/badge/focus-data%20science%20%2B%20research-0ea5a4?style=flat-square)](#current-lab)
 
 </div>
 

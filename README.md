@@ -1,17 +1,19 @@
 <div align="center">
 
-<h1>Hi, I'm Karl.</h1>
+<h3>Hi, I'm Karl.</h3>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=0EA5A4&center=true&vCenter=true&width=760&lines=Welcome+to+my+world.;Statistics+first%2C+stories+second.;Bayesian+inference+%7C+uncertainty+quantification+%7C+causal+discovery" alt="Typing introduction" />
 </a>
 
-<br><br>
+<br>
 
 [![Profile views](https://komarev.com/ghpvc/?username=DearKarl&style=flat-square&color=0ea5a4)](https://github.com/DearKarl)
 [![GitHub followers](https://img.shields.io/github/followers/DearKarl?label=follow&style=flat-square&color=111827)](https://github.com/DearKarl?tab=followers)
 
 </div>
+
+---
 
 ## About This Lab
 

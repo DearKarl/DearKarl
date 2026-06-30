@@ -18,7 +18,7 @@
 
 ## About Me
 
-I like building small, inspectable projects that turn noisy data into questions we can test. My GitHub orbit right now includes Bayesian modeling, simulation-based classification, lexical clustering, text analytics, census trends, and multi-omics networks.
+I somehow stayed at university long enough to turn undergraduate entropy into a maths PhD, collecting priors, posteriors, and enough caffeine to reject the null hypothesis along the way.
 
 <details>
 <summary><code>karl.status("now")</code></summary>

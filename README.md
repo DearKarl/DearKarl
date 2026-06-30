@@ -40,38 +40,16 @@ bug_strategy    pray
 
 | Project | What it explores | Link |
 | --- | --- | --- |
-| `Multiomics_Regnet` | regulatory and network patterns in multi-omics data | [open repo](https://github.com/DearKarl/Multiomics_Regnet) |
-| `Simulation_Based_Classification` | classification ideas tested through simulated data | [open repo](https://github.com/DearKarl/Simulation_Based_Classification) |
-| `Bayesian_Linear_Regression` | Bayesian modeling and uncertainty thinking | [open repo](https://github.com/DearKarl/Bayesian_Linear_Regression) |
-| `Lexical_Clustering` | structure, distance, and clusters in language data | [open repo](https://github.com/DearKarl/Lexical_Clustering) |
-| `Text_Analytics` | extracting useful signal from text | [open repo](https://github.com/DearKarl/Text_Analytics) |
-| `Census_Trends_Analysis` | public-data trend analysis and visualization | [open repo](https://github.com/DearKarl/Census_Trends_Analysis) |
+| `coming_soon` | experiments currently being cleaned, renamed, and made less embarrassing | — |
+| `under_review` | small research projects waiting for future Karl to document them properly | — |
+| `work_in_progress` | plots, priors, bugs, and other signs of academic life | — |
 
-<div align="center">
-  <a href="https://github.com/DearKarl/Multiomics_Regnet">
-    <img height="132" src="https://github-readme-stats.vercel.app/api/pin/?username=DearKarl&repo=Multiomics_Regnet&theme=vue-dark&hide_border=true&bg_color=0D1117" alt="Pinned card for Multiomics_Regnet" />
-  </a>
-  <a href="https://github.com/DearKarl/Simulation_Based_Classification">
-    <img height="132" src="https://github-readme-stats.vercel.app/api/pin/?username=DearKarl&repo=Simulation_Based_Classification&theme=vue-dark&hide_border=true&bg_color=0D1117" alt="Pinned card for Simulation_Based_Classification" />
-  </a>
-</div>
 
 ## Toolkit
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,git,github,vscode,linux&perline=6" alt="Core tools" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,vscode,git,github,docker,anaconda&perline=8" alt="Research Stack" />
 </div>
-
-```txt
-question        -> dataset
-dataset         -> model
-model           -> simulation
-simulation      -> plot
-plot            -> explanation
-explanation     -> next better question
-```
 
 ## GitHub Signals
 

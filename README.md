@@ -20,13 +20,21 @@
 
 I like building small, inspectable projects that turn noisy data into questions we can test. My GitHub orbit right now includes Bayesian modeling, simulation-based classification, lexical clustering, text analytics, census trends, and multi-omics networks.
 
+<details open>
+<summary><code>karl.status("now")</code></summary>
+
 ```txt
-> karl.status()
-curiosity       high
+curiosity       O(∞)
+working_style   prototype -> break -> rethink -> publish
+current_mode    machine learning, human playing
 favorite_moves  model -> simulate -> visualize -> explain
-working_style   make it reproducible, then make it readable
+default_answer  "it depends"
+coffee_level    posterior mean > prior expectation
+bug_strategy    pray
+research_mood   chasing signal through the noise
 ```
 
+</details>
 ## Current Lab
 
 | Project | What it explores | Link |

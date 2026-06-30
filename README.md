@@ -20,7 +20,7 @@
 
 I like building small, inspectable projects that turn noisy data into questions we can test. My GitHub orbit right now includes Bayesian modeling, simulation-based classification, lexical clustering, text analytics, census trends, and multi-omics networks.
 
-<details open>
+<details>
 <summary><code>karl.status("now")</code></summary>
 
 ```txt
@@ -35,6 +35,7 @@ research_mood   chasing signal through the noise
 ```
 
 </details>
+
 ## Current Lab
 
 | Project | What it explores | Link |

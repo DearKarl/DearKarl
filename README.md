@@ -44,19 +44,14 @@ bug_strategy    pray
 | `under_review` | small research projects waiting for future Karl to document them properly | — |
 | `work_in_progress` | plots, priors, bugs, and other signs of academic life | — |
 
-
-## Toolkit
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,vscode,git,github,docker,anaconda&perline=8" alt="Research Stack" />
-</div>
-
 ## GitHub Signals
 
 <div align="center">
-  <img height="162" src="https://github-readme-stats.vercel.app/api?username=DearKarl&show_icons=true&hide_border=true&theme=vue-dark&rank_icon=github" alt="Karl's GitHub stats" />
-  <img height="162" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DearKarl&layout=compact&hide_border=true&theme=vue-dark" alt="Karl's top languages" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=DearKarl&show_icons=true&hide_border=true&theme=vue-dark&rank_icon=github" alt="Karl's GitHub stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DearKarl&layout=compact&hide_border=true&theme=vue-dark" alt="Karl's top languages" />
 </div>
+
+
 
 ## Contribution Flow
 
@@ -78,6 +73,12 @@ bug_strategy    pray
 ```
 
 </details>
+
+## Toolkit
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,vscode,git,github,docker,anaconda&perline=8" alt="Research Stack" />
+</div>
 
 ---
 

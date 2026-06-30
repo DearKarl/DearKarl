@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Karl
+<img src="https://raw.githubusercontent.com/DearKarl/DearKarl/main/assets/profile-title.svg" alt="Hi, I'm Karl" width="760" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=0EA5A4&center=true&vCenter=true&width=760&lines=Statistics+first%2C+stories+second.;Bayesian+models+%7C+simulation+%7C+multi-omics;Small+experiments%2C+clear+questions%2C+useful+answers." alt="Typing introduction" />

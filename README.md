@@ -16,7 +16,7 @@
 
 </div>
 
-## About This Lab
+## About Me
 
 I like building small, inspectable projects that turn noisy data into questions we can test. My GitHub orbit right now includes Bayesian modeling, simulation-based classification, lexical clustering, text analytics, census trends, and multi-omics networks.
 

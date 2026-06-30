@@ -26,12 +26,12 @@ I like building small, inspectable projects that turn noisy data into questions 
 ```txt
 curiosity       O(∞)
 current_mode    machine learning, human playing
-working_style   prototype -> panic -> refactor -> pretend it was planned
-favorite_moves  model -> simulate -> visualize -> explain
+working_style   git stash
+research_mood   n=1
+life_cycle      coffee -> code -> cope
+coffee_level    p < 0.05
 default_answer  "it depends"
-coffee_level    make coffee -> make bugs -> make excuses
 bug_strategy    pray
-research_mood   rename variables -> rerun experiments -> call it research
 ```
 
 </details>

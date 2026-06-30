@@ -3,7 +3,11 @@
 <img src="https://raw.githubusercontent.com/DearKarl/DearKarl/main/assets/profile-title.svg" alt="Hi, I'm Karl" width="760" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=0EA5A4&center=true&vCenter=true&width=760&lines=Statistics+first%2C+stories+second.;Bayesian+models+%7C+simulation+%7C+multi-omics;Small+experiments%2C+clear+questions%2C+useful+answers." alt="Typing introduction" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=F0F6FC&center=true&vCenter=true&width=760&lines=Welcome+to+my+world.;Statistics+first%2C+stories+second." />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=24292F&center=true&vCenter=true&width=760&lines=Welcome+to+my+world.;Statistics+first%2C+stories+second." />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=24292F&center=true&vCenter=true&width=760&lines=Welcome+to+my+world.;Statistics+first%2C+stories+second." alt="Typing introduction" />
+  </picture>
 </a>
 
 [![Profile views](https://komarev.com/ghpvc/?username=DearKarl&style=flat-square&color=0ea5a4)](https://github.com/DearKarl)

@@ -1,17 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&section=header&text=Hi%2C%20I%27m%20Karl.&fontSize=46&fontColor=0EA5A4&fontAlignY=50" alt="Hi, I'm Karl." />
+# Hi, I'm Karl
 
-<strong>Welcome to my world.</strong>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=0EA5A4&center=true&vCenter=true&width=760&lines=Statistics+first%2C+stories+second.;Bayesian+models+%7C+simulation+%7C+multi-omics;Small+experiments%2C+clear+questions%2C+useful+answers." alt="Typing introduction" />
+</a>
 
-<br><br>
-
-[![Profile views](https://komarev.com/ghpvc/?username=DearKarl&label=Profile%20views&style=flat-square&color=b01c2e)](https://github.com/DearKarl)
-[![GitHub followers](https://img.shields.io/github/followers/DearKarl?label=GitHub%20followers&style=flat-square&labelColor=b01c2e&color=b01c2e)](https://github.com/DearKarl?tab=followers)
+[![Profile views](https://komarev.com/ghpvc/?username=DearKarl&style=flat-square&color=0ea5a4)](https://github.com/DearKarl)
+[![GitHub followers](https://img.shields.io/github/followers/DearKarl?label=follow&style=flat-square&color=111827)](https://github.com/DearKarl?tab=followers)
+[![Focus](https://img.shields.io/badge/focus-data%20science%20%2B%20research-0ea5a4?style=flat-square)](#current-lab)
 
 </div>
-
----
 
 ## About This Lab
 

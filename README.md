@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DearKarl/DearKarl/main/assets/profile-title.svg" alt="Hi, I'm Karl" width="760" />
+<img src="https://raw.githubusercontent.com/DearKarl/DearKarl/main/assets/profile-title.svg" alt="Hi, I'm Karl" width="500" />
 
 <a href="https://git.io/typing-svg">
   <picture>

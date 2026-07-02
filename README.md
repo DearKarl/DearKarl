@@ -44,34 +44,26 @@ bug_strategy    pray
 | `under_review` | small research projects waiting for future Karl to document them properly | — |
 | `work_in_progress` | plots, priors, bugs, and other signs of academic life | — |
 
-## GitHub Signals
+## GitHub Analytics
 
 <div align="center">
-  <img height="162" src="https://github-readme-stats.vercel.app/api?username=DearKarl&show_icons=true&hide_border=true&theme=vue-dark&rank_icon=github" alt="Karl's GitHub stats" />
-  <img height="162" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DearKarl&layout=compact&hide_border=true&theme=vue-dark" alt="Karl's top languages" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=DearKarl&show_icons=true&hide_border=true&theme=vue-dark&rank_icon=github" alt="Karl's GitHub stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DearKarl&layout=compact&hide_border=true&theme=vue-dark" alt="Karl's top languages" />
 </div>
 
+<br>
 
-## Contribution Flow
+## GitHub Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DearKarl/DearKarl/output/github-contribution-grid-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DearKarl/DearKarl/output/github-contribution-grid.svg" />
-  <img alt="Contribution graph animation" src="https://raw.githubusercontent.com/DearKarl/DearKarl/output/github-contribution-grid.svg" />
-</picture>
+<div align="center">
 
-<details>
-<summary>Small debug ritual</summary>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DearKarl&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph" />
 
-```txt
-1. Make the smallest reproducible example.
-2. Check the assumptions before checking the code.
-3. Plot the weird part.
-4. Delete the clever thing if the plain thing works.
-5. Leave a note for future Karl.
-```
+  <br><br>
 
-</details>
+  <img width="100%" src="https://raw.githubusercontent.com/DearKarl/DearKarl/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+
+</div>
 
 ## Toolkit
 

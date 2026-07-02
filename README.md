@@ -65,6 +65,27 @@ bug_strategy    pray
 
 </div>
 
+## Contribution Flow
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DearKarl/DearKarl/output/github-contribution-grid-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DearKarl/DearKarl/output/github-contribution-grid.svg" />
+  <img alt="Contribution graph animation" src="https://raw.githubusercontent.com/DearKarl/DearKarl/output/github-contribution-grid.svg" />
+</picture>
+
+<details>
+<summary>Small debug ritual</summary>
+
+```txt
+1. Make the smallest reproducible example.
+2. Check the assumptions before checking the code.
+3. Plot the weird part.
+4. Delete the clever thing if the plain thing works.
+5. Leave a note for future Karl.
+```
+
+</details>
+
 ## Toolkit
 
 <div align="center">

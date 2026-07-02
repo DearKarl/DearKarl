@@ -47,10 +47,9 @@ bug_strategy    pray
 ## GitHub Signals
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=DearKarl&show_icons=true&hide_border=true&theme=vue-dark&rank_icon=github" alt="Karl's GitHub stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DearKarl&layout=compact&hide_border=true&theme=vue-dark" alt="Karl's top languages" />
+  <img height="162" src="https://github-readme-stats.vercel.app/api?username=DearKarl&show_icons=true&hide_border=true&theme=vue-dark&rank_icon=github" alt="Karl's GitHub stats" />
+  <img height="162" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DearKarl&layout=compact&hide_border=true&theme=vue-dark" alt="Karl's top languages" />
 </div>
-
 
 
 ## Contribution Flow

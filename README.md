@@ -15,17 +15,3 @@
 </a>
 
 </div>
-
-
-
-## Toolkit
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,vscode,git,github,docker,anaconda&perline=8" alt="Research Stack" />
-</div>
-
----
-
-<div align="center">
-  <sub>Built as a living README: part lab notebook, part dashboard, part reminder to stay curious.</sub>
-</div>

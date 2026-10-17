@@ -8,9 +8,9 @@
 />
 <a href="https://git.io/typing-svg">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=F0F6FC&center=true&vCenter=true&width=760&lines=Welcome+to+my+world.;Statistics+first%2C+stories+second." />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=24292F&center=true&vCenter=true&width=760&lines=Welcome+to+my+world.;Statistics+first%2C+stories+second." />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=24292F&center=true&vCenter=true&width=760&lines=Welcome+to+my+world.;Statistics+first%2C+stories+second." alt="Typing introduction" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=F0F6FC&center=true&vCenter=true&width=760&lines=Welcome+to+my+world." />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=24292F&center=true&vCenter=true&width=760&lines=Welcome+to+my+world." />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=24292F&center=true&vCenter=true&width=760&lines=Welcome+to+my+world." alt="Welcome to my world." />
   </picture>
 </a>
 
